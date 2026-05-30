@@ -1,10 +1,7 @@
 {
-  "versione": "1.3.1",
+  "versione": "2.0.0",
   "url": "https://github.com/pompierecattivo/sim-aib/releases/latest/download/SimulatoreAIB.exe",
   "note": [
-    "Icona Taz sull'EXE e favicon",
-    "Sistema autenticazione admin/guest",
-    "Disclaimer e pagina donazioni",
-    "Auto-aggiornamento integrato"
+    "Installer"
   ]
 }
